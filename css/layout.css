@@ -25,3 +25,28 @@
 /* Posititoning Classes */
 
 
+.float-right{
+  /*position: relative;*/
+  width:28%;
+  height: 100%;
+  /*float: right;*/
+}
+
+.float-left{
+   /*position: relative;*/
+   /*display: inline-block;*/
+  width: 68%;
+  margin-right:2%;
+/*float:left;*/
+}
+
+.last-row{
+  /*position: relative;*/
+  width:32%;
+  margin-right: 1%;
+  margin-top: 2%;
+  /*float: right;*/
+}
+
+
+
