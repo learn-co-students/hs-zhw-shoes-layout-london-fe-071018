@@ -4,7 +4,7 @@
 
 /* scale all images, and media to accomodate responsive layout. */
 img, video, audio, iframe, table, form { 
-  width:100%; /* IE */
+  width:100%; /* IE 
   max-width: 100%; /* FF, Safari, Chrome */
 }
 
@@ -111,6 +111,7 @@ iframe {
 }
 
 .shadow {
+  display: inline-block;
   box-shadow: 0 3px 10px #333;
 }
 
@@ -122,6 +123,7 @@ iframe {
 }
 
 .border_right {
+  display: inline-block;
   border-right: 1px dotted #ccc;
   padding-right: 20px;
 }
